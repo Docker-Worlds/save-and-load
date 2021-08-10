@@ -9,6 +9,7 @@ docker stop [container]
 ```
 docker commit [Container ID] [Image Name]
 ```
+tip!) use  ```docker ps -a``` to find Container ID
 
 # Save Image as File
 ```
