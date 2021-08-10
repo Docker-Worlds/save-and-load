@@ -18,5 +18,5 @@ docker save [Image Name] > [File Path & File Name]
 
 # Load File to Image
 ```
-sudo load [File Path & File Name]
+docker load -i [File Path & File Name]
 ```
